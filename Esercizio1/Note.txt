@@ -1,0 +1,5 @@
+Modifiche fatte
+1) da return void del metodo ricorsivo a return boolean 
+2) if ............ return true , return false
+3) mettere dei bound sempre piu stringenti
+4) aggiungere procedura euristica greedy che mi fa partire da buona posizione di partenza, la procedura ricorsiva puo solo migliorare quello che ho trovato con la soluzione greedy
